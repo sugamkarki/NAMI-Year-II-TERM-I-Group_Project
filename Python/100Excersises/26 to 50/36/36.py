@@ -1,0 +1,5 @@
+wordFile=open("words.txt",'r')
+# print(wordFile)
+word=(wordFile.readline())
+word=word.split(' ')
+print(len(word))

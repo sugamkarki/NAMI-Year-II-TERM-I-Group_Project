@@ -8,3 +8,4 @@
 #     os.mkdir(folder)
 #     path=folder+'/'+nameOfFile
 #     myFile=open(path,'w')'''
+'''alphabets generator 35.py'''
