@@ -1,1 +1,2 @@
 # boring
+print('hello')
